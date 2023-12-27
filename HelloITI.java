@@ -1,10 +1,16 @@
 class HelloWorld{
 		public static void main (String [] args){
-		        printHelloGit();
+		        printHello();
 			
 		}
+
 		public void printHelloGit(){
 			System.out.println("ccssfdfd ");
 			System.out.println("Hello Git" );
+
+      
+		public void printHello(){
+			System.out.println("Hello " );
+
 		}
 }
